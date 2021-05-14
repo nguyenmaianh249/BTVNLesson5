@@ -1,0 +1,131 @@
+    /*Header*/
+    
+    #header {
+        margin: 0px;
+        border-bottom: 1px solid gainsboro;
+        width: 100%;
+        height: 40px;
+    }
+    
+    #header-left {
+        margin-left: 150px;
+        margin-top: 5px;
+        display: inline-flex;
+    }
+    
+    #logobao {
+        margin-left: 20px;
+        margin-top: -12px;
+    }
+    
+    #header-right {
+        margin-left: 530px;
+        margin-top: 2px;
+        display: inline-flex;
+    }
+    
+    #logosearch {
+        margin-top: 2px;
+        margin-left: 2px;
+    }
+    
+    #iconperson {
+        margin-left: 20px;
+        margin-right: 5px;
+    }
+    
+    #dangnhap {
+        margin-top: 0px;
+        text-decoration: none;
+    }
+    
+    #dangnhap:hover {
+        color: rgb(134, 5, 5);
+    }
+    /*centerTile*/
+    
+    #centerTitle {
+        margin-left: 150px;
+        width: 1024px;
+        height: 100px;
+        border-bottom: 2px solid gainsboro;
+        display: inline-flex;
+    }
+    /*table content*/
+    
+    #tablecontent {
+        margin-left: 150px;
+        margin-top: 0px;
+        padding: 0px;
+        width: 1024px;
+    }
+    
+    #tablecontent tr td ul li {
+        list-style-type: none;
+        margin: 5px;
+    }
+    
+    #MoiNhat {
+        width: 300px;
+        height: 20px;
+        color: brown;
+        margin-top: 0px;
+        text-decoration: none;
+    }
+    
+    .listtacgia {
+        font-size: 14px;
+        color: black;
+        text-decoration: none;
+    }
+    
+    .listtacgia:hover {
+        text-decoration: underline;
+    }
+    
+    #boderngancach {
+        border: 1px solid gainsboro;
+        width: 200px;
+    }
+    
+    .content {
+        width: 400px;
+        height: 200px;
+        margin-left: -120px;
+    }
+    
+    #contenthang1 {
+        margin-top: 0px;
+        background-color: rgb(241, 235, 235);
+    }
+    
+    .content div {
+        margin-left: 20px;
+        width: 300px;
+    }
+    
+    #contenthang2 {
+        margin-top: 20px;
+    }
+    
+    #contenthang3 {
+        margin-top: 40px;
+    }
+    
+    .content div a {
+        text-decoration: none;
+        color: black;
+    }
+    
+    .content div a:hover {
+        text-decoration: underline;
+    }
+    
+    #cot3 {
+        border: 1px solid rgb(243, 235, 235);
+        background-color: rgb(241, 235, 235);
+        width: 240px;
+        height: auto;
+        margin-top: -250px;
+        margin-left: -230px;
+    }
